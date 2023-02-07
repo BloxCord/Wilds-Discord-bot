@@ -1,9 +1,9 @@
 # frozen_string_literal: true
-# name: discord bot
-# about: Integrate Discord Bots with Discourse
-# version: 0.3
-# authors: Robert Barrow
-# url: https://github.com/merefield/discourse-discord-bot
+# name: wild discord bot
+# about: Integrate Discord Bots with Wild
+# version: 0.1
+# authors: Filip B
+# url: TODO
 
 gem 'event_emitter', '0.2.6'
 gem 'websocket', '1.2.8'
