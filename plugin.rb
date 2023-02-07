@@ -1,8 +1,9 @@
 # frozen_string_literal: true
 # name: discord bot
-# about: Integrate Discord Bots with Discourse
+# about: Integrate Discord Bots with Wilds City
 # version: 0.3
 # authors: Robert Barrow
+# Edited By: Wilds City
 # url: https://github.com/merefield/discourse-discord-bot
 
 gem 'event_emitter', '0.2.6'
