@@ -1,9 +1,9 @@
 # frozen_string_literal: true
-# name: discord bot
+# name: wildsdiscord bot
 # about: Integrate Discord Bots with Wilds City
-# version: 0.3
+# version: 0.4
 # authors: Wilds City
-# url: https://github.com/merefield/discourse-discord-bot
+# url: https://github.com/BloxCord/Wilds-Discord-bot
 
 gem 'event_emitter', '0.2.6'
 gem 'websocket', '1.2.8'
